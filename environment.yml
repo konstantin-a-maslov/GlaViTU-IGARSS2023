@@ -1,0 +1,16 @@
+name: massive-tf
+channels:
+  - defaults
+dependencies:
+  - tensorflow-gpu
+  - tqdm
+  - jupyter
+  - h5py
+  - ipython
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - rasterio
+  - opencv
+  - jupyterlab
+prefix: /home/konstantin/.conda/envs/massive-tf
