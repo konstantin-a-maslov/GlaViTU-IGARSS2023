@@ -11,7 +11,7 @@ This repository contains materials for our paper presented at IGARSS2023.
 Glacier mapping is essential for studying and monitoring the impacts of climate change. 
 However, several challenges such as debris-covered ice complicate large-scale glacier mapping in a fully-automated manner. 
 This work presents a novel hybrid CNN-transformer model (GlaViTU) for multi-regional glacier mapping. 
-Our model outperforms three baseline models---SETR-B/16, ResU-Net and TransU-Net---achieving a higher mean IoU of 0.875 and demonstrating better generalization ability. 
+Our model outperforms three baseline models&mdash;SETR-B/16, ResU-Net and TransU-Net&mdash;achieving a higher mean IoU of 0.875 and demonstrating better generalization ability. 
 The proposed model is also parameter-efficient, with approximately 10 and 3 times fewer parameters than SETR-B/16 and ResU-Net, respectively. 
 Our results provide a solid foundation for future studies on the application of deep learning methods for global glacier mapping. 
 To facilitate reproducibility, we have shared our data set, codebase and pretrained models here.
