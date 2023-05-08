@@ -36,9 +36,9 @@ If you are interested in trying the pretrained models, you can find them [here](
 
 To train a model, run
  
-'''
+```
 python train.py [-m <ARCHITECTURE>] [-n <MODEL NAME>]
-'''
+```
 
 Supported architectures are 'setr', 'resunet', 'transunet' and 'glavitu' (default). 
 The model name is also optional, if not specified, it will be automatically inferred from the architecture. 
@@ -49,17 +49,17 @@ After the training is finished, you will find a .csv log in ./logs and a .h5 fil
 
 To classify the test subset, execute
 
-'''
+```
 python predict.py [-m <ARCHITECTURE>] [-n <MODEL NAME>]
-'''
+```
 
 ### Evaluating the performance
 
 Finally, to evaluate the model, run
 
-'''
+```
 python evaluate.py [-n <MODEL NAME>]
-'''
+```
 
 It will output mean IoU and region-wide IoUs for the model.
 
