@@ -63,4 +63,5 @@ python evaluate.py [-n <MODEL NAME>]
 
 It will output mean IoU and region-wide IoUs for the model.
 
+<br/>
 > If you notice any inaccuracies, mistakes or errors, consider submitting a pull request. For inquiries, contact [k.a.maslov@utwente.nl](mailto:k.a.maslov@utwente.nl).
