@@ -20,11 +20,13 @@ To cite the paper/repository, please use the following bib entry.
 
 ```
 @inproceedings{glavitu,
-     title = {GlaViTU: A hybrid CNN-transformer for multi-regional glacier mapping from multi-source data},
-     author = {K. A. Maslov and C. Persello and T. Schellenberger and A. Stein},
-     booktitle = {Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
-     year = {2023},
-} 
+   author = {Maslov, Konstantin A. and Persello, Claudio and Schellenberger, Thomas and Stein, Alfred},
+   booktitle = {IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium}, 
+   title = {GLAVITU: A Hybrid CNN-Transformer for Multi-Regional Glacier Mapping from Multi-Source Data}, 
+   year = {2023},
+   pages = {1233-1236},
+   doi = {10.1109/IGARSS52108.2023.10281828}
+}
 ```
 
 ### Important links
